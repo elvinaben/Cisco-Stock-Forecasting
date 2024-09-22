@@ -1,0 +1,40 @@
+Description of the database in more detail
+
+Date: 
+	this is the day on which the information was revealed
+	format AAAA-MM-JJ
+	
+Open:
+	It is the value of the share at the opening of the stock market.
+
+Close:
+	This is the value of the stock at the close of trading
+
+High:
+	It is the highest value of the action during a day		
+
+Low:
+	It is the smallest value of the action during a day
+
+Volume :
+
+	This is the number of shares in the stock market
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
